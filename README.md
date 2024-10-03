@@ -17,3 +17,5 @@ Endpoint: The app sends a GET request to the https://financialmodelingprep.com/a
 Parameters: The {ticker} is dynamically provided by the user as an input in the search bar (e.g., AAPL for Apple).
 API Key: The app uses a free API key for authentication, which is included in the API URL. This key allows access to company profile information. With 250 requests a Day based on the free plan from the API endpoint.
 Data Handling: The data is fetched asynchronously using JavaScript's async/await syntax, and error handling is implemented to catch any issues with the request or invalid ticker symbols.
+
+Project link: https://8gp6pt.csb.app/
